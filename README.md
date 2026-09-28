@@ -23,10 +23,10 @@ I'm Melika — a Senior Front-end Developer passionate about building clean, sca
 
 I focus on creating modern UIs with attention to detail — from smooth animations to pixel-perfect layouts.
 
-- 🌱 Currently building FamilyFlow — a family management app
 - 💻 Working with Next.js, React, TypeScript, Tailwind
 - 🎨 Love clean UI and smooth UX
 - 🌍 Based in Shiraz, Iran
+- 💜 Love turning ideas into beautiful web experiences
 
 ---
 
@@ -114,6 +114,6 @@ I believe great front-end engineering goes beyond writing code.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika_Nematollahi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/melika-nematollahi)
 [![Email](https://img.shields.io/badge/Email-mlykanmtalhy@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mlylykanmtalhy@gmail.com)
 
-💜 Thanks for visiting!
+💓 Thanks for visiting!
 
 </div>
